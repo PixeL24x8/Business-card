@@ -44,7 +44,7 @@ Please do not reuse or reproduce them without permission.
 
 Make your first impression count.  
 — Team Pixel 24×8
-"""
+
 
 
 
